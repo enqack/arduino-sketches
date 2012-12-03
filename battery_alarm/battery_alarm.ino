@@ -2,7 +2,7 @@
  battery_alarm
  
  Fades LED and beeps buzzer on low voltage warning value.
- Strobes LED and alarm buzzer on low voltabe cutt-ff value.
+ Strobes LED and alarm buzzer on low voltage cut-off value.
  
  */
  
